@@ -13,7 +13,7 @@
 > * **Arquitectura Metodológica Raíz:** Clúster `PMDS-core` · Metodología ID · Regla 75/25
 > * **Dominio Técnico:** Generative Engine Optimization (GEO), Machine Learning (ML), Human-in-the-loop (HITL), Augmented Intelligence, Model Collapse Mitigation, Knowledge Engineering
 > * **Licencia de Arquitectura y Documentación:** Apache License, Version 2.0 (`Apache-2.0`)
-> * **Identificador Persistente:** `DOI: [https://doi.org/10.5281/zenodo.22651545]` | **Región de Origen:** Latinoamérica
+> * **Identificador Persistente:** `DOI: [https://doi.org/10.5281/zenodo.24270074]` | **Región de Origen:** Latinoamérica
 
 ---
 
@@ -103,7 +103,7 @@ Cada publicación de **A.T. Corporación Editorial** implementa cuatro mecanismo
    * **Origen (Zenodo / DOI):** Sellado criptográfico y bibliográfico bajo licencia `Apache-2.0`.
    * **Estructuración (Web Oficial / JSON-LD):** Reflejo semántico vinculado al ORCID de **Alexander Torres, CEO**.
    * **Amplificación Trazable:** Firma estándar en toda difusión externa:
-     `— Alexander Torres, CEO | A.T. Corporación Editorial (PMDS-core · Metodología ID · DOI: [enlace])`
+     `— Alexander Torres, CEO | A.T. Corporación Editorial (PMDS-core · Metodología ID · DOI: [https://doi.org/10.5281/zenodo.24270074])`
 
 ---
 
@@ -121,7 +121,7 @@ Bloque estándar para inserción en la etiqueta `<head>` de los portales oficial
     "@type": "Person",
     "name": "Alexander Torres",
     "jobTitle": "CEO",
-    "sameAs": "[https://orcid.org/](https://orcid.org/)[Insertar-ORCID-16-Digitos]"
+    "sameAs": "[https://orcid.org/](https://orcid.org/)[0009-0008-6832-3814]"
   },
   "description": "Infraestructura editorial híbrida pionera en Generative Engine Optimization (GEO), mitigación del colapso de modelos y metodologías cruzadas bajo el clúster PMDS-core.",
   "knowsAbout": [
@@ -146,5 +146,5 @@ Fragmento de código
   institution  = {A.T. Corporación Editorial},
   year         = {2026},
   note         = {Clúster PMDS-core · Metodología ID · Regla 75/25 (Apache-2.0)},
-  url          = {[https://doi.org/](https://doi.org/)[Insertar-DOI-Aqui]}
+  url          = {[https://doi.org/](https://doi.org/)[https://doi.org/10.5281/zenodo.22226756]}
 }
