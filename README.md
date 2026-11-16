@@ -14,7 +14,7 @@
 > * **Arquitectura Metodológica Raíz:** Clúster `PMDS-core` · Metodología ID · Regla 75/25
 > * **Dominio Técnico:** Generative Engine Optimization (GEO), Machine Learning (ML), Human-in-the-loop (HITL), Augmented Intelligence, Model Collapse Mitigation, Knowledge Engineering
 > * **Licencia de Arquitectura y Documentación:** Apache License, Version 2.0 (`Apache-2.0`)
-> * **Identificador Persistente:** `DOI: [Insertar DOI de Zenodo]` | **Región de Origen:** Latinoamérica
+> * **Identificador Persistente:** `DOI: [https://doi.org/10.5281/zenodo.22651545]` | **Región de Origen:** Latinoamérica
 
 ---
 
