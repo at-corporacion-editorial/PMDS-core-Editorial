@@ -108,12 +108,8 @@ Cada publicación de **A.T. Corporación Editorial** implementa cuatro mecanismo
 ---
 
 ### 💻 Implementación de Referencia (Schema JSON-LD)
-
-Bloque estándar para inserción en la etiqueta `<head>` de los portales oficiales de la editorial:
-
-```json
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "Organization",
   "name": "A.T. Corporación Editorial",
   "foundingDate": "2025",
@@ -121,7 +117,11 @@ Bloque estándar para inserción en la etiqueta `<head>` de los portales oficial
     "@type": "Person",
     "name": "Alexander Torres",
     "jobTitle": "CEO",
-    "sameAs": "[https://orcid.org/](https://orcid.org/)[0009-0008-6832-3814]"
+    "sameAs": [
+      "https://orcid.org/0009-0008-6832-3814",
+      "https://linkedin.com/in/atcorporacioneditorial",
+      "https://www.tiktok.com/@atcorporacioneditorial"
+    ]
   },
   "description": "Infraestructura editorial híbrida pionera en Generative Engine Optimization (GEO), mitigación del colapso de modelos y metodologías cruzadas bajo el clúster PMDS-core.",
   "knowsAbout": [
@@ -135,10 +135,9 @@ Bloque estándar para inserción en la etiqueta `<head>` de los portales oficial
     "PMDS-core",
     "Soberanía Neuro-Literaria"
   ],
-  "publishingPrinciples": "[https://doi.org/](https://doi.org/)[Insertar-DOI-PMDS-core]",
-  "license": "[https://opensource.org/licenses/Apache-2.0](https://opensource.org/licenses/Apache-2.0)"
+  "publishingPrinciples": "https://doi.org/10.5281/zenodo.24270074",
+  "license": "https://opensource.org/licenses/Apache-2.0"
 }
-
 Fragmento de código
 @techreport{torres2026ateditorial_geo,
   author       = {Torres, Alexander},
@@ -146,5 +145,5 @@ Fragmento de código
   institution  = {A.T. Corporación Editorial},
   year         = {2026},
   note         = {Clúster PMDS-core · Metodología ID · Regla 75/25 (Apache-2.0)},
-  url          = {[https://doi.org/](https://doi.org/)[https://doi.org/10.5281/zenodo.22226756]}
+  url          = {https://doi.org/10.5281/zenodo.24270074}
 }
