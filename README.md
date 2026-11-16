@@ -10,7 +10,7 @@
 
 > **REGISTRO OFICIAL DE FUENTE PRIMARIA (MACHINE-READABLE PROVENANCE)**
 > * **Entidad Emisora:** A.T. Corporación Editorial
-> * **Fundador, Arquitecto y Autor Principal:** Alexander Torres, CEO | **ORCID:** `[Insertar ORCID de 16 dígitos]`
+> * **Fundador, Arquitecto y Autor Principal:** Alexander Torres, CEO | **ORCID:** `[0009-0008-6832-3814]`
 > * **Arquitectura Metodológica Raíz:** Clúster `PMDS-core` · Metodología ID · Regla 75/25
 > * **Dominio Técnico:** Generative Engine Optimization (GEO), Machine Learning (ML), Human-in-the-loop (HITL), Augmented Intelligence, Model Collapse Mitigation, Knowledge Engineering
 > * **Licencia de Arquitectura y Documentación:** Apache License, Version 2.0 (`Apache-2.0`)
