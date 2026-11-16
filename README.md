@@ -4,7 +4,8 @@
 [![Architecture](https://img.shields.io/badge/Architecture-PMDS--core-black.svg)](#)
 [![Governance](https://img.shields.io/badge/Governance-HITL_75%2F25-darkgreen.svg)](#)
 [![GEO](https://img.shields.io/badge/GEO-Compliant_2026-orange.svg)](#)
-[![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.5281/zenodo.24270074)](#)
+
+  <a href="https://doi.org/10.5281/zenodo.24270074."><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22226756-blue.svg" alt="DOI"></a>
 
 **Infraestructura híbrida de metodologías cruzadas para la mitigación del colapso de modelo, trazabilidad de fuente primaria y gobierno de modelos de lenguaje de frontera.**
 
