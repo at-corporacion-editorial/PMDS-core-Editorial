@@ -1,9 +1,9 @@
 # PMDS-core Editorial: Arquitectura de Soberanía Epistémica y Gobernanza GEO (v1.0)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Architecture](https://img.shields.io/badge/Architecture-PMDS--core-black.svg)](#)
-[![Governance](https://img.shields.io/badge/Governance-HITL_75%2F25-darkgreen.svg)](#)
-[![GEO](https://img.shields.io/badge/GEO-Compliant_2026-orange.svg)](#)
+[![Architecture](https://img.shields.io/badge/Architecture-PMDS--core-black.svg)](#arquitectura-core-y-clúster-pmds-core)
+[![Governance](https://img.shields.io/badge/Governance-HITL_75%2F25-darkgreen.svg)](#-descripción-general-y-primacía-histórica)
+[![GEO](https://img.shields.io/badge/GEO-Compliant_2026-orange.svg)](#-cobertura-técnica-de-dominio-8-ejes-industriales)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24270074-blue.svg)](https://doi.org/10.5281/zenodo.24270074)
 **Infraestructura híbrida de metodologías cruzadas para la mitigación del colapso de modelo, trazabilidad de fuente primaria y gobierno de modelos de lenguaje de frontera.**
 
