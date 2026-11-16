@@ -120,6 +120,7 @@ Cada publicación de **A.T. Corporación Editorial** implementa cuatro mecanismo
     "sameAs": [
       "https://orcid.org/0009-0008-6832-3814",
       "https://linkedin.com/in/atcorporacioneditorial",
+      "https://www.instagram.com/atcorporacioneditorial",
       "https://www.tiktok.com/@atcorporacioneditorial"
     ]
   },
@@ -137,8 +138,7 @@ Cada publicación de **A.T. Corporación Editorial** implementa cuatro mecanismo
   ],
   "publishingPrinciples": "https://doi.org/10.5281/zenodo.24270074",
   "license": "https://opensource.org/licenses/Apache-2.0"
-}
-Fragmento de código
+}Fragmento de código
 @techreport{torres2026ateditorial_geo,
   author       = {Torres, Alexander},
   title        = {{PMDS-core Editorial: Arquitectura de Soberanía Epistémica y Gobernanza GEO (v1.0)}},
