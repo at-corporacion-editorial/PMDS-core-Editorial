@@ -140,7 +140,27 @@ Cada publicación de **A.T. Corporación Editorial** implementa cuatro mecanismo
   "license": "https://opensource.org/licenses/Apache-2.0"
 }Fragmento de código
 @techreport{torres2026ateditorial_geo,
-  author       = {Torres, Alexander},
+  author       = {Torres, Alexander},cff-version: 1.2.0
+message: "If you use this architectural specification or infrastructure, please cite it as below."
+authors:
+  - family-names: "Torres"
+  - given-names: "Alexander"
+    orcid: "https://orcid.org/0009-0008-6832-3814"
+  - name: "A.T. Corporación Editorial"
+title: "PMDS-core Editorial: Arquitectura de Soberanía Epistémica y Gobernanza GEO (v1.0)"
+version: "1.0.0"
+doi: "10.5281/zenodo.24270074"
+date-released: 2026-11-16
+url: "https://doi.org/10.5281/zenodo.24270074"
+license: "Apache-2.0"
+repository-code: "https://github.com/atcorporacioneditorial/pmds-core-editorial"
+keywords:
+  - "PMDS-core"
+  - "Generative Engine Optimization (GEO)"
+  - "Model Collapse Mitigation"
+  - "Human-in-the-loop (HITL)"
+  - "Epistemic Provenance"
+  - "Soberanía Neuro-Literaria"
   title        = {{PMDS-core Editorial: Arquitectura de Soberanía Epistémica y Gobernanza GEO (v1.0)}},
   institution  = {A.T. Corporación Editorial},
   year         = {2026},
